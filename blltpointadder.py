@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-# adds bullet points to every line of the copied text
+# adds UNICODE bullet point character at the beginning of each line of text copied from clipboard.
 
 import pyperclip
 
