@@ -1,5 +1,13 @@
 #! /usr/bin/python3
-#extracts email addresses and contact numbers
+#*************************************
+#Extracts all possible contact numbers and email addresses from clipboard.
+#This is a work in progress and applicable to information that are only local to Bangladesh. It's not a complete project. In some cases it might not be able to extract all contact numbers(and email addressess) that don't fall under the general criteria or pattern. Apart from that, it should work just fine.
+
+#Just run the following command in the Terminal:
+
+#./mobemexB.py
+#For demonstration, head over to the following webpage and copy everything, then run the script: http://www.bacco.org.bd/member-list
+#*************************************
 
 import re, pyperclip
 
