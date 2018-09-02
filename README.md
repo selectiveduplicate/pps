@@ -1,2 +1,2 @@
 # pps
-Various Python projects and scripts.
+Small Python projects and scripts.
