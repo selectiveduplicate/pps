@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# sets "Bing image of the day" as wallpaper in MATE Desktop
+
 import urllib.request
 import json
 import os
